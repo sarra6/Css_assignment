@@ -1,0 +1,29 @@
+.button {
+  color : green;
+  border: 2px solid green;
+  background-color: gainsboro;
+  padding: 9px 50px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 40%;
+  border-bottom: 10%;
+  padding-left: 5%;
+  padding-top: 2PX;
+  padding-bottom: 2px;
+  padding-right: 5%;
+}
+.plus-button {
+	border: 2px solid lightgrey;
+	background-color: rgb(33, 209, 74);
+	font-size: 16px;
+	height: 2.5em;
+	width: 2.5em;
+	border-radius: 999px;
+	position: relative;
+  color : white ;
+  
+}
+.button3 {color : white ; box-shadow: 10px 5px 5px black ; background-color: blue;border-radius: 0%;} 
